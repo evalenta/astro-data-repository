@@ -1,0 +1,38 @@
+# Environment variables (e.g. Exercises/.env)
+.env
+.env.local
+.env.*.local
+
+# API keys and secrets
+*_api_key.txt
+secrets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Installers (keep repo clean)
+*.exe
