@@ -1,4 +1,4 @@
-# AstroDataAnalysis
+# AstroDataAnalysis (Draft)
 
 Astronomy data analysis exercises and pedagogy notebooks.
 
